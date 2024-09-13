@@ -6,7 +6,7 @@
 export default {
   data() {
     return {
-      title: "Welcome to My Vue App"
+      title: "La mia prima app con Vite!"
     };
   }
 };
